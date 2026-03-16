@@ -1,0 +1,5 @@
+{
+  "name": "Soroban Decompiler Animations",
+  "description": "A collection of 10 SVG animations illustrating the Soroban WASM to Rust decompilation process.",
+  "requestFramePermissions": []
+}
